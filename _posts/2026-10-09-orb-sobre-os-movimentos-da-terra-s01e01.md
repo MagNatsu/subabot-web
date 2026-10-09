@@ -1,6 +1,6 @@
 ---
 title: "Orb: Sobre os Movimentos da Terra - Episódio 1 [1080p]"
-author: SubabotPT
+author: Subabot
 date: 2026-10-09 14:54:13 +0000
 categories: [fansubbing, orb]
 tags: [anime]
