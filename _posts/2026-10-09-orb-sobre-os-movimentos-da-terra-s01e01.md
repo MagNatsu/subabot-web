@@ -13,3 +13,8 @@ O episódio 1 de Orb: Sobre os Movimentos da Terra já está disponível.
 Rafal foi admitido na universidade e planeia estudar teologia, embora a astronomia continue a despertar-lhe curiosidade. O encontro com Hubert põe-no perante uma hipótese sobre o cosmos que desafia as ideias estabelecidas.
 
 [Download](https://github.com/MagNatsu/subabot-web/releases/download/orb-s01e01-1080p/episodio.pt-PT.mkv)
+
+
+----
+
+MagNatsu: Olá malta, este foi o primeiro! O Subabot funcionou como era esperado! Esta foi uma experiência lalalala. Todo o processo é automatizado. lalalala
