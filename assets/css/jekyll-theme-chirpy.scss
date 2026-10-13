@@ -1,0 +1,19 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+:root[data-bs-theme='light'],
+:root[data-bs-theme='dark'],
+:root:not([data-bs-theme]) {
+  --avatar-border-color: transparent;
+}
