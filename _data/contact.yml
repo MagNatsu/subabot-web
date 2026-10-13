@@ -3,12 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: discord
+  icon: "fa-brands fa-discord"
+  url: "https://discord.gg/k6j9xGAMUV"
 
 - type: rss
   icon: "fas fa-rss"

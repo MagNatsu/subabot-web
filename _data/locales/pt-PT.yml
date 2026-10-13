@@ -1,0 +1,71 @@
+# Textos da interface do site
+
+layout:
+  post: Publicação
+  category: Categoria
+  tag: Etiqueta
+
+tabs:
+  home: Início
+  categories: Categorias
+  tags: Etiquetas
+  archives: Arquivo
+  about: Sobre
+
+search:
+  hint: Pesquisar
+  cancel: Cancelar
+  no_results: Não foram encontrados resultados.
+
+panel:
+  lastmod: Atualizados recentemente
+  trending_tags: Tags populares
+  toc: Índice
+
+copyright:
+  license:
+    template: Esta publicação está licenciada ao abrigo da licença :LICENSE_NAME pelo seu autor.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+  brief: Alguns direitos reservados.
+  verbose: >-
+    Salvo indicação em contrário, as publicações deste blogue estão licenciadas pelo autor ao abrigo da licença
+    Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+meta: Desenvolvido com :PLATFORM e com o tema :THEME
+
+not_found:
+  statement: Não encontrámos a página que procuras.
+
+notification:
+  update_found: Está disponível uma nova versão do conteúdo.
+  update: atualização
+
+theme:
+  light: Claro
+  dark: Escuro
+  system: Sistema
+
+post:
+  written_by: Por
+  posted: Publicado em
+  updated: Atualizado em
+  words: palavras
+  pageview_measure: visualizações
+  read_time:
+    unit: min
+    prompt: " de leitura"
+  relate_posts: Lê também
+  share: Partilhar
+  button:
+    next: Seguinte
+    previous: Anterior
+    copy_code:
+      succeed: Código copiado!
+    share_link:
+      title: Copiar ligação
+      succeed: Ligação copiada com sucesso!
+
+categories:
+  category_measure: categorias
+  post_measure: publicações
