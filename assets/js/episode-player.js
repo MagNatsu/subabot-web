@@ -202,6 +202,13 @@ await import(MOVI_PLAYER_MODULE);
 await customElements.whenDefined("movi-player");
 
 for (const root of document.querySelectorAll("[data-episode-player-root]")) {
+  // Put the episode player in the cover slot when the post also has a cover image.
+  const coverImage = document.querySelector("article > header .mt-3.mb-3 img");
+  const cover = coverImage?.closest(".mt-3.mb-3");
+  if (cover) {
+    cover.replaceWith(root);
+  }
+
   void initializePlayer(root).catch((error) =>
     console.error("Could not initialize the episode preview", error),
   );
