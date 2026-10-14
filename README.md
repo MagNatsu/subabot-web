@@ -29,6 +29,23 @@ Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wi
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
+## Episode player previews
+
+Episode posts can embed an in-page preview with styled ASS subtitles. The player uses Movi Player for MKV playback and JASSUB to render the ASS track. The JASSUB runtime files are kept in `assets/jassub/`; the license is included in that directory.
+
+To add a preview, set `episode_player.video_url` to a direct HTTPS `.mkv` URL and list the subtitle fonts used by that post under `episode_player.fonts`. Store the font files under `assets/episode-fonts/<slug>/`:
+
+```yaml
+episode_player:
+  video_url: "https://github.com/MagNatsu/subabot-web/releases/download/<tag>/<episode>.mkv"
+  fonts:
+    - /assets/episode-fonts/<distribution-slug>/font-name.ttf
+```
+
+Add `{% include episode-player.html %}` to the post body where the preview should appear. The include adds the site base URL to each font path and loads the shared player script.
+
+Use a direct HTTPS `.mkv` file as the player source. Archives are not supported as media sources.
+
 ## License
 
 This work is published under [MIT][mit] License.

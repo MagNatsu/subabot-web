@@ -1,0 +1,14 @@
+.episode-player {
+  margin: 2rem 0;
+}
+
+.episode-player__title {
+  margin-bottom: 0.75rem;
+}
+
+.episode-player__video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
