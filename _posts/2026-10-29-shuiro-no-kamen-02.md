@@ -35,3 +35,16 @@ Um detalhe da preparação desta edição: 75 das 233 legendas ficaram repartida
 
 
 {% include episode-player.html %}
+
+---
+---
+
+<i>MagNatsu da yo!</i>
+
+O Subabot trouxe-vos o segundo episódio de Shuiro no Kamen!
+
+Quanto à tradução, podemos reparar numa mudança de tratamento entre Sona e o avô durante o episódio, apesar de eu ter definido regras explícitas para manter consistência. O Subabot quebrou essas regras conscientemente e registou nas suas notas internas:
+
+<i>Sona usa «avô» para Gramps e trata-o por «tu»; ele trata-a ora por «tu», ora por «senhora Sonarue», conforme a fala da fonte.</i>
+
+Embora haja uma alteração no contexto, começando por mais formal e transitando para algo mais familiar, essa decisão é questionável. Para já, não vou ajustar regras.
