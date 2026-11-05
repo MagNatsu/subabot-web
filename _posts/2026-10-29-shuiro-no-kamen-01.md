@@ -34,3 +34,12 @@ Nesta edição, também traduzimos os letreiros que apresentam os locais e as pe
 [Descarregar o episódio 01](https://github.com/MagNatsu/subabot-web/releases/download/shuiro-no-kamen-01-1080p/Subabot.Shuiro.no.Kamen.01.1080p.87AE11CF.mkv) e conhecer Peru. Bom episódio!
 
 {% include episode-player.html %}
+
+---
+---
+
+Olá, malta! Daqui MagNatsu!
+
+Este foi o primeiro episódio trazido pelo <b>Subabot</b>, que será apresentado em breve!
+
+Spoiler: inteligência artifical.
