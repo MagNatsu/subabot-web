@@ -14,7 +14,7 @@ Tenho visto a ser explorada a utilização de inteligência artificial no fansub
 
 <img src="/assets/img/logo.png" alt="Logótipo do Subabot" width="180" style="display: block; margin: 0 auto;">
 
-O Subabot é uma pipeline construída com instruções em linguagem natural e em código. Reúne as etapas necessárias ao lançamento de um episódio, entre elas a obtenção do ficheiro de vídeo, extração das legendas, tradução, revisão, muxing e publicação. A arquitetura está explicada com mais detalhe na secção [Sobre](/about/).
+O Subabot é uma pipeline construída com instruções em linguagem natural e em código. Reúne as etapas necessárias ao lançamento de um episódio, entre elas a obtenção do ficheiro de vídeo, extração das legendas em inglês, tradução, revisão, muxing e publicação. A arquitetura está explicada com mais detalhe na secção [Sobre](/about/).
 
 O nome vem do verbo “subar”, que nós fansubbers bem conhecemos.
 
